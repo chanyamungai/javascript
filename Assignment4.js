@@ -19,7 +19,7 @@ sayHello();
 // There are two main modules 
 // 1.export
 // 2.import
-
+// /Example in file called math.js
 export function add(a, b) {
     return a + b;
 }
